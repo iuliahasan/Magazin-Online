@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\bin\Debug\users.txt
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\bin\Debug\Proiect_FIS.exe.config
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\bin\Debug\Proiect_FIS.exe
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\bin\Debug\Proiect_FIS.pdb
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.Form1.resources
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.Properties.Resources.resources
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.exe
+C:\Users\User\Desktop\FIS\Proiect_FIS\Proiect_FIS\obj\Debug\Proiect_FIS.pdb
